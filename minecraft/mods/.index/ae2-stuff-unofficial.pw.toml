@@ -1,0 +1,13 @@
+filename = 'ae2stuff-1.12.2-0.9.jar'
+name = 'AE2 Stuff Unofficial'
+side = 'both'
+
+[download]
+hash = '496e74477ea7070f77eba1190d36c09bf35492f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5002181
+project-id = 951064

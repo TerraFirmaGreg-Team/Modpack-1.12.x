@@ -1,0 +1,13 @@
+filename = 'mousetweaks-1.12.2-3.1.4.jar'
+name = 'Mouse Tweaks Unofficial'
+side = 'both'
+
+[download]
+hash = 'b4a06ef4ea32e7cc50d4e67fd6f3255dc6aa1ec6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4661407
+project-id = 461660

@@ -1,0 +1,13 @@
+filename = 'astikorcarts-tfc-1.12.2-0.1.2.9.jar'
+name = 'AstikorCarts [Horse Carts] for TFC'
+side = 'both'
+
+[download]
+hash = '04961beb930e3be297422296f3191529e0c384fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3520488
+project-id = 491270

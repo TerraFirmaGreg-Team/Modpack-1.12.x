@@ -1,0 +1,13 @@
+filename = 'EnderStorage-1.12.2-2.4.9.jar'
+name = 'Ender Storage continuation'
+side = 'both'
+
+[download]
+hash = 'cd945aefbf3cb1e9c6a24f5ff50f0f682e74f138'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4418030
+project-id = 634242

@@ -1,0 +1,13 @@
+filename = 'ItemFilters-1.0.4.2.jar'
+name = 'Item Filters'
+side = 'both'
+
+[download]
+hash = '6b6560aea35c6e0e8a550ea7044501412b0fb335'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3003364
+project-id = 309674

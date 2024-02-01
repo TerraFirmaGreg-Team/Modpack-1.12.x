@@ -1,0 +1,13 @@
+filename = 'GalacticResearch-1.0.9.jar'
+name = 'Galactic Research'
+side = 'both'
+
+[download]
+hash = '12e8ccf3f24b6908bf1b7b179f4780e947dac688'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5055703
+project-id = 822103

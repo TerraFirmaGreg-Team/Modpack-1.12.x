@@ -1,0 +1,13 @@
+filename = 'Valkyrie-0.2-Dev-10.jar'
+name = 'Valkyrie'
+side = 'both'
+
+[download]
+hash = 'c6a0a73574d99eae2ddd43a5e5d364225312b8c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4824088
+project-id = 874067

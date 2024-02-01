@@ -1,0 +1,13 @@
+filename = 'betterp2p-1.12.2-1.3.2.jar'
+name = 'Betterer P2P'
+side = 'both'
+
+[download]
+hash = '5d0c93fbc7bfb7ea36410ae770af1259c0c14a37'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4928154
+project-id = 943734

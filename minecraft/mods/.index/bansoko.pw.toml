@@ -1,0 +1,13 @@
+filename = '_bansoukou-4.3.1.jar'
+name = 'Bansōkō [絆創膏] - Mod Patcher'
+side = 'both'
+
+[download]
+hash = '56673aa891542a2acc7c51fd28a30e87a9692aa6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3626352
+project-id = 434344

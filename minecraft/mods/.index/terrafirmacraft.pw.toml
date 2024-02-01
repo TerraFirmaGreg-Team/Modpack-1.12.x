@@ -1,0 +1,13 @@
+filename = 'TerraFirmaCraft-MC1.12.2-1.7.23.181.jar'
+name = 'TerraFirmaCraft'
+side = 'both'
+
+[download]
+hash = '02572c98137f42c8e35bc5a74a7a78699bbad373'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3645502
+project-id = 302973

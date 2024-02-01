@@ -1,0 +1,13 @@
+filename = 'HorsePowerTFC-MC1.12.2-2.6.7.jar'
+name = 'Horse Power for TFC'
+side = 'both'
+
+[download]
+hash = '3a0d5a3e998b9e9683e54cb3bd93139c58eca235'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3456207
+project-id = 491262

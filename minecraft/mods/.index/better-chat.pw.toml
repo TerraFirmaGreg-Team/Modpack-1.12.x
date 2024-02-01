@@ -1,0 +1,13 @@
+filename = 'betterchat-1.4.jar'
+name = 'Better Chat'
+side = 'both'
+
+[download]
+hash = 'ef0e6ed7e93ee7f5956d3749157e6dd95f4f980f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3048407
+project-id = 363860

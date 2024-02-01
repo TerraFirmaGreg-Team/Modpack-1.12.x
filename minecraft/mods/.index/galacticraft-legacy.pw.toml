@@ -1,0 +1,13 @@
+filename = 'Galacticraft-1.12.2-4.0.6.jar'
+name = 'Galacticraft Legacy'
+side = 'both'
+
+[download]
+hash = 'fa626be5ec34567b5b7b2a1279bb24e428a550f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4671122
+project-id = 564236

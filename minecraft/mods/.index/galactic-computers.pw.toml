@@ -1,0 +1,13 @@
+filename = 'GalacticComputers-1.0.0.jar'
+name = 'Galactic Computers'
+side = 'both'
+
+[download]
+hash = '19ef0da7b937f1843287f6fcbafc623c79559e20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3414071
+project-id = 508697

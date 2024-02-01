@@ -1,0 +1,13 @@
+filename = 'Alfheim-1.2.jar'
+name = 'Alfheim'
+side = 'both'
+
+[download]
+hash = '4703788f3dafcec84385114d18f7f776f860f3d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4949716
+project-id = 910715

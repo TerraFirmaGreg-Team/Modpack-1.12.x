@@ -1,0 +1,13 @@
+filename = 'p455w0rdslib-1.12.2-2.3.161.jar'
+name = "p455w0rd's Library"
+side = 'both'
+
+[download]
+hash = 'be56bc229b7f418675bf46277e37a8272def5327'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2830265
+project-id = 255232

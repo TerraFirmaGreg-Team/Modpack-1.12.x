@@ -1,0 +1,13 @@
+filename = 'TFC-Florae-MC1.12.2-1.4.6.jar'
+name = 'TFC Florae'
+side = 'both'
+
+[download]
+hash = '56b84cc09870a30cf9e14f92da08796eeef61835'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3590520
+project-id = 389228

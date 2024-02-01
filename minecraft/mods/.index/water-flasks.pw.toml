@@ -1,0 +1,13 @@
+filename = 'waterflasks-1.9.jar'
+name = 'TFC Water Flasks'
+side = 'both'
+
+[download]
+hash = '44f76514d504bc023b18531ff71cff883ae9ba43'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3311002
+project-id = 354353

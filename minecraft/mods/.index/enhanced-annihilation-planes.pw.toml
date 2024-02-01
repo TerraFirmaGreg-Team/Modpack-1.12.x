@@ -1,0 +1,13 @@
+filename = 'enhanced_annihilation_planes-1.0.jar'
+name = 'Enhanced Annihilation Planes'
+side = 'both'
+
+[download]
+hash = '2b719024c53207c20bd16e4456721c227cc08e09'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4761039
+project-id = 915177

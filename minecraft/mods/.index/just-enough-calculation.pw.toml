@@ -1,0 +1,13 @@
+filename = 'JustEnoughCalculation-1.12.2-3.2.7.jar'
+name = 'Just Enough Calculation'
+side = 'both'
+
+[download]
+hash = 'af07e8e6567e910f679b14f9b67b23da3213eeb2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3524685
+project-id = 242223

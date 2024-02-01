@@ -1,0 +1,13 @@
+filename = 'nae2-1.6.1.jar'
+name = "Neeve's AE2: Extended Life Additions"
+side = 'both'
+
+[download]
+hash = '765adc2cc634e5a759ab727c3df0a242362dd252'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4955559
+project-id = 884359

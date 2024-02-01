@@ -1,0 +1,13 @@
+filename = 'JustEnoughIDs-1.0.4-SNAPSHOT-thin.jar'
+name = 'JustEnoughIDs'
+side = 'both'
+
+[download]
+hash = '0dbf1d19b9994d3dec2d3e0b0325dd4bb70b82aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3581715
+project-id = 296289

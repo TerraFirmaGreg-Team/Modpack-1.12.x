@@ -1,0 +1,13 @@
+filename = 'placementpreview-1.12.2-0.3.2.jar'
+name = 'Placement Preview'
+side = 'both'
+
+[download]
+hash = 'c91d1c8aee33434cd7a0739e46961ca060e17255'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2493033
+project-id = 248402

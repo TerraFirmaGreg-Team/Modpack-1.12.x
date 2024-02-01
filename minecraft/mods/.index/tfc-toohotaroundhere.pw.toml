@@ -1,0 +1,13 @@
+filename = 'thah-1.2.0.jar'
+name = 'TFC TooHotAroundHere'
+side = 'both'
+
+[download]
+hash = 'bb569fc6831965770926083384adf1ad29e0a462'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4671603
+project-id = 641267

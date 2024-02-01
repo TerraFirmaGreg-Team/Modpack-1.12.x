@@ -1,0 +1,13 @@
+filename = 'terrafirmathings-1.3.5.jar'
+name = 'TerraFirmaThings'
+side = 'both'
+
+[download]
+hash = '99e550028460a0556b7f4bb70f13ebd62a3f8add'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3378687
+project-id = 386285

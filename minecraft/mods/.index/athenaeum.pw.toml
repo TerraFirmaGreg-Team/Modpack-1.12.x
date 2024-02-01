@@ -1,0 +1,13 @@
+filename = 'athenaeum-1.12.2-1.19.6.jar'
+name = 'Athenaeum'
+side = 'both'
+
+[download]
+hash = 'd2e8821968a8ae5ea1bf5d7dd221b3e8e1b645bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4633750
+project-id = 284350

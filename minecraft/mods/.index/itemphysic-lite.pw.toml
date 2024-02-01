@@ -1,0 +1,13 @@
+filename = 'ItemPhysic Lite 1.3.7 mc1.12.2.jar'
+name = 'ItemPhysic Lite'
+side = 'both'
+
+[download]
+hash = '63fd419d636d509023fdc435aab2ba379970a334'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2491098
+project-id = 270441

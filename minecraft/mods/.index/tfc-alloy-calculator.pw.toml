@@ -1,0 +1,13 @@
+filename = 'TFCAlloyCalc-1.0.jar'
+name = 'TFC Alloy Calculator'
+side = 'both'
+
+[download]
+hash = 'e6c65eef5b48f7815b1260f565d42fd1935474d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3393720
+project-id = 506260

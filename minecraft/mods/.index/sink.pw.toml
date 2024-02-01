@@ -1,0 +1,13 @@
+filename = 'Sink-1.0.0.jar'
+name = 'Sink'
+side = 'both'
+
+[download]
+hash = '95731a05b72b570898d6c13c9618b4b82e53c5e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3407706
+project-id = 509995

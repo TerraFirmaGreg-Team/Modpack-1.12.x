@@ -1,0 +1,13 @@
+filename = 'Charset-Lib-0.5.6.6.jar'
+name = 'Charset Lib'
+side = 'both'
+
+[download]
+hash = '41912cdaaad5c22e1972092c7a73c9eab2de5650'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3656492
+project-id = 284523

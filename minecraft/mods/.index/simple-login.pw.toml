@@ -1,0 +1,13 @@
+filename = 'simplelogin-1.2.4-beta+build127.jar'
+name = 'Simple Login'
+side = 'both'
+
+[download]
+hash = '5c04d7858e1253aae2707594e95bb1a939b11580'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2996748
+project-id = 312664

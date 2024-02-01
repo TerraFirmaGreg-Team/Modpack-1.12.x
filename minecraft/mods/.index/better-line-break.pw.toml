@@ -1,0 +1,13 @@
+filename = 'BetterLineBreak-1.12.2-1.0.2.jar'
+name = 'Better Line Break'
+side = 'both'
+
+[download]
+hash = 'd417ee4249c75786543fcb2b92f1a7d26e0a7496'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5046766
+project-id = 960082

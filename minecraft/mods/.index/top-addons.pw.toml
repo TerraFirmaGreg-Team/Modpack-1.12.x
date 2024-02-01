@@ -1,0 +1,13 @@
+filename = 'topaddons-1.12.2-1.13.0.jar'
+name = 'TOP Addons'
+side = 'both'
+
+[download]
+hash = '81fd91d9b4579a3f07a8d3b860f7db5426e77c72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2887479
+project-id = 247111

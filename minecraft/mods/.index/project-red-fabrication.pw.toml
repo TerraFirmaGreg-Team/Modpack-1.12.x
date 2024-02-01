@@ -1,0 +1,13 @@
+filename = 'ProjectRed-1.12.2-4.9.4.120-fabrication.jar'
+name = 'Project Red - Fabrication'
+side = 'both'
+
+[download]
+hash = '7766aa672bc20a2a44a6a231efdc05a7bbdf0073'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2745547
+project-id = 230111

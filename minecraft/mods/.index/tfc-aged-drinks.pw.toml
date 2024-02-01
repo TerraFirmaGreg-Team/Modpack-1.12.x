@@ -1,0 +1,13 @@
+filename = 'TFCAgedDrinks-1.0.7.jar'
+name = 'TFC Aged Drinks'
+side = 'both'
+
+[download]
+hash = '6e2487e6d5489a9b644d9a3e587b771a0731de31'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3086468
+project-id = 372635

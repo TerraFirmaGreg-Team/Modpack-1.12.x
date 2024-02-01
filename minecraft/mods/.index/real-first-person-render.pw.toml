@@ -1,0 +1,13 @@
+filename = 'RealFirstPerson2-1.12.2-1.3.2.jar'
+name = 'Real First Person 2'
+side = 'both'
+
+[download]
+hash = '86595b64e41da2cdbf230b58c1016b56110159e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2878496
+project-id = 248451

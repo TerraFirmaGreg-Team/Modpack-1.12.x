@@ -1,0 +1,13 @@
+filename = 'OpenComputers-MC1.12.2-1.8.3+274990f.jar'
+name = 'OpenComputers'
+side = 'both'
+
+[download]
+hash = '1b80896835037dec8313008cd70720731ebc75c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4630537
+project-id = 223008

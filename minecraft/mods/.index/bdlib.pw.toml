@@ -1,0 +1,13 @@
+filename = 'bdlib-1.14.4.1-mc1.12.2.jar'
+name = 'BdLib'
+side = 'both'
+
+[download]
+hash = '6cb8cb1edc2897cf30f5071b04c29a2482d2b109'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4675629
+project-id = 70496

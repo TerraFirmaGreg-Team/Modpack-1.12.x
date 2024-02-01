@@ -1,0 +1,13 @@
+filename = 'Fixeroo-2.0.jar'
+name = 'Fixeroo'
+side = 'both'
+
+[download]
+hash = '368aa931235ca5c401351c91619406636327933c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4412006
+project-id = 633806

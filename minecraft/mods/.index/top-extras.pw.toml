@@ -1,0 +1,13 @@
+filename = 'topextras-1.12.2-1.0.1.jar'
+name = 'TOP Extras'
+side = 'both'
+
+[download]
+hash = 'fdc3bbd18af4d2e8035b61e7e32b7bcde8f8e7c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3813089
+project-id = 628618

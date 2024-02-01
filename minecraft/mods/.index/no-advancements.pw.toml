@@ -1,0 +1,13 @@
+filename = 'NoAdvancements-1.12.2.002.jar'
+name = 'No Advancements'
+side = 'both'
+
+[download]
+hash = 'cba545686e92a53fe2b12306f7a69743705a9f5e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2853556
+project-id = 327592

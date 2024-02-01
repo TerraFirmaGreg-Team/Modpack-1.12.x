@@ -1,0 +1,13 @@
+filename = 'particleculling-1.12.2-v1.4.1.jar'
+name = 'Particle Culling'
+side = 'both'
+
+[download]
+hash = '23b7b68d0c791b8d4ff538c728c0c55ead9c78d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4439001
+project-id = 408853

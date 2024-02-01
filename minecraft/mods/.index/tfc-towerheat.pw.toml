@@ -1,0 +1,13 @@
+filename = 'tfctowerheat-1.3.jar'
+name = 'TFC TowerHeat'
+side = 'both'
+
+[download]
+hash = 'd4ed202b89f93510893e27c8f20f2a377bdba6bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4647636
+project-id = 579713

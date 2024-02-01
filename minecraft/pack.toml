@@ -1,0 +1,13 @@
+name = "TerraFirmaGreg-1.12.x"
+author = "Exception, Xikaro"
+version = "4.5.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18768e2e90a0897a6a409b9c32ff03f30b9a1147f25ead51a30c03ab3758716c"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+filename = 'Blur-1.0.4-14.jar'
+name = 'Blur'
+side = 'both'
+
+[download]
+hash = '921d17cfc8aae8df23e30e4547dc30927d6236a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2460821
+project-id = 268324

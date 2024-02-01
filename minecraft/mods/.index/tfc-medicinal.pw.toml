@@ -1,0 +1,13 @@
+filename = 'TFCMedicinal-1.0.6.jar'
+name = 'TFC Medicinal'
+side = 'both'
+
+[download]
+hash = 'c4a8665983c48f943ecbcd54758e98f792e8f4ab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3137708
+project-id = 414233

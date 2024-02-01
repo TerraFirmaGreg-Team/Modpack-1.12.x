@@ -1,0 +1,13 @@
+filename = 'theoneprobe-1.12-1.4.28.jar'
+name = 'The One Probe'
+side = 'both'
+
+[download]
+hash = 'd5b5be5d5d54de5ed35c96131118c411a51129bc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2667280
+project-id = 245211

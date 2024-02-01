@@ -1,0 +1,13 @@
+filename = 'floraefixes-1.0.jar'
+name = 'TFC Florae Fixes'
+side = 'both'
+
+[download]
+hash = '2eeb30e1ce0ed79aa498c3343842a2a010884a25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4052567
+project-id = 693965

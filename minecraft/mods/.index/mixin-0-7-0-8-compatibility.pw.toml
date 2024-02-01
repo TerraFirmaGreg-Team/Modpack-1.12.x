@@ -1,0 +1,13 @@
+filename = '[___MixinCompat-1.1-1.12.2___].jar'
+name = 'Mixin 0.7-0.8 Compatibility'
+side = 'both'
+
+[download]
+hash = '14482e3ec39b6f92ab2de675df10ecf0ad6e931a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4641243
+project-id = 405327

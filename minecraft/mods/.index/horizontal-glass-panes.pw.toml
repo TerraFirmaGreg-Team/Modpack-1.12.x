@@ -1,0 +1,13 @@
+filename = 'hgp-1.0.jar'
+name = 'Horizontal Glass Panes'
+side = 'both'
+
+[download]
+hash = '3975a01259a62840caa355f33f4149d00f48ef58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2536711
+project-id = 227706

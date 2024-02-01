@@ -1,0 +1,13 @@
+filename = 'OptionsEnforcer-1.12.2-1.4.1.jar'
+name = 'Options Enforcer'
+side = 'both'
+
+[download]
+hash = 'f7226db5f26148e27e33d3f4dbfd1dd4f113e86b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3947595
+project-id = 499018
